@@ -1,0 +1,3 @@
+Hey,
+welcome to hithub ,
+i created this file in my local git repository and then pushed it into my remote.
